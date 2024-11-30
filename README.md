@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sjwonny/sjwonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=JIWON's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=JIWON's%20GITHUB👋&fontSize=50&animation=twinkling&fontAlign=68)
 
